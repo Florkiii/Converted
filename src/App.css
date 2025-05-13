@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+select {
+  font-size: 2rem;
+  margin: 10px;
+  border: solid 3px #646cffaa;
+  border-radius: 5px;
+}
+
+input {
+  border: solid 3px #646cffaa;
+  border-radius: 5px;
+  font-size: 2rem;
+}
